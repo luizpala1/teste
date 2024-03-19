@@ -1,0 +1,41 @@
+---
+title: "Izabela Oliveira"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/izabela-oliveira-8a424855/
+        - icon: github
+          text: Github
+          url: https://github.com/izabela-rco
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:izabela.oliveira@ufla.br
+        - text: "{{< ai orcid >}} ORCID 0000-0003-3254-2827"
+          url: https://orcid.org/0000-0003-3254-2827
+        - icon: lattes
+          text: Lattes
+          url: http://lattes.cnpq.br/3989787989553183
+image: img/tree.jpg
+comments: false
+---
+
+## Bio
+
+
+## Key research interests
+
+
+## Teaching
+
+
+## Selected papers
+
+
+## Professional affiliations
+
+
+## Personal life
+
+
+

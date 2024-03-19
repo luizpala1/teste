@@ -1,0 +1,66 @@
+---
+title: "Teaching"
+---
+
+My teaching activities began in 2012, during my doctorate at ESALQ/USP. There, I had the opportunity to teach undergraduate courses to students from different areas. In 2015, I was admitted as a professor at UFLA, where I teach at undergraduate and postgraduate levels.
+
+::: columns
+::: {.column width="60%"}
+I have been taking courses in English as a Medium of Instruction, which has encouraged me to teach content in English to students at our institution and at partners who are not native English speakers. The course in this format is "Data manipulation and visualization", where I teach Exploratory Data Analysis using R. 
+
+(2022) English as a Medium of Instruction. (64h). OPEN Global online course. Ohio University, O.U., Estados Unidos. (*online*)
+
+(2018) English as a Medium of Instruction. Kirkwood Community College, KCC, Estados Unidos. (*in-person course, at UFLA*)
+:::
+
+::: {.column width="40%"}
+![](img/EMI.png){fig-align="left" width="250"}
+:::
+:::
+
+Currently the courses I teach are mainly aimed at teaching Statistics with computational foundations, using the R language.
+
+## Universidade Federal de Lavras (UFLA)
+
+### Now
+
+*Undergraduate level*
+
+- [Data organization and visualization](https://des-ufla.github.io/GES_109/Informacoes.html)
+
+*Graduate Level*
+
+- Computational Resources applied to Statistics and Agricultural Experimentation
+
+
+### 2015 to 2022
+
+*Undergraduate level*
+
+- Statistics
+
+- Statistics Applied to Engineering
+
+- Biostatistics
+
+- Applied statistics
+
+*Graduate Level*
+
+- Seminars
+
+- Teaching training
+
+- Data manipulation and visualization (classes in english)
+
+## Escola Superior de Agricultura Luiz de Queiroz (ESALQ/USP)
+
+### 2012
+
+- Differential and integral calculus
+
+- Statistics applied to agricultural experiments
+
+- General Statistics
+
+- Statistics Applied to Food Sciences

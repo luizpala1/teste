@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Izabela Oliveira"
+  description: "Izabela is professor at Universidade Federal de Lavras (UFLA)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects and colaborations
+
+  page-footer:
+    left: "(c) Izabela Oliveira, 2024 . Made with [Quarto](https://quarto.org/)"
+  twitter-card: true
+  open-graph: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
